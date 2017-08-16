@@ -1,0 +1,114 @@
+import java.util.ArrayList;
+
+public class Rechteck{
+
+	private int x_pos, y_pos;	//Start position (upper left corner)
+	private int len, hei;		//size
+	private char sign;		//character for printing
+
+	public Rechteck(int x_pos, int y_pos, int len, int hei, char sign){
+		this.x_pos = x_pos;
+		this.y_pos = y_pos;
+		this.len = len;
+		this.hei = hei;
+		this.sign = sign;
+	}
+
+	public int getX_pos(){
+		return x_pos;
+	}
+
+        public int getY_pos(){
+                return y_pos;
+        }
+
+        public int getLen(){
+                return len;
+        }
+
+        public int getHei(){
+                return hei;
+        }
+
+        public char getSign(){
+                return sign;
+        }
+}
+public class Muster{
+
+	private ArrayList<Rechteck> liste = new ArrayList<Rechteck>();	//stores the shapes
+
+	public Muster(){	//empty canvas, nothing to be done
+	}	
+
+	/**
+	fills the canvas with a checkerboard-pattern
+	*/
+	public Muster(int size){
+		for(int i = 0; i < 8; i++)
+			for(int j = 0; j < 8; j++)
+				if((j+i) % 2 == 0)	//adds a shape to every second iteration
+					add(new Rechteck(i*size, j*size, size, size, 'X'));
+	}
+
+	//No getters and setters, just a method to add a shape
+	public void add(Rechteck r){
+		liste.add(r);
+	}
+
+	//prints the shape to stdout
+	public void printMuster(){
+		int maxX = 0;	//size of the canvas
+		int maxY = 0;
+		//calculate the size by using the maximum of the lower-rigth edges of the shapes
+		for(Rechteck r : liste){
+			if(r.getLen() + r.getX_pos() > maxX)
+				maxX = r.getLen() + r.getX_pos();
+			if(r.getHei() + r.getY_pos() > maxY)
+                                maxY = r.getHei() + r.getY_pos();
+		}
+		//create canvas and fill it with blanks
+		char[][] canvas = new char[maxX][maxY];
+		for(char[] c : canvas)
+			for(int i = 0; i < c.length; i++)
+				c[i] = ' ';
+		//now draw the shapes onto the canvas
+		for(Rechteck r : liste){
+			for(int i = r.getX_pos(); i < r.getX_pos() + r.getLen(); i++)
+				for(int j = r.getY_pos(); j < r.getY_pos() + r.getHei(); j++)
+					canvas[i][j] = r.getSign();
+		}
+		//print the canvas to stdout
+		for(int i = 0; i < maxY; i++){
+			for(int j = 0; j < maxX; j++)
+				System.out.print(canvas[j][i]);
+			System.out.println();
+		}
+	}
+
+	public static void main(String [] args){
+		System.out.println("Schachbrett mit Feldgroesse 3");
+		Muster schach = new Muster(3);
+		schach.printMuster();
+		System.out.println("Arbeitsflaeche mit 5 Rechtecken");
+		Rechteck r1 = new Rechteck(2, 2, 3, 4, '.');
+		Rechteck r2 = new Rechteck(7, 26, 2, 1, ';');
+		Rechteck r3 = new Rechteck(2, 2, 3, 1, '=');	//overlaps r1
+		Rechteck r4 = new Rechteck(0, 5, 1, 1, '@');
+		Rechteck r5 = new Rechteck(12, 12, 3, 3, '#');
+		Muster m = new Muster();
+		m.add(r1);
+		m.add(r2);
+		m.add(r3);
+		m.add(r4);
+		m.add(r5);
+		m.printMuster();
+		System.out.println("Obiges Schachbrett mit den 5 Rechtecken");
+		schach.add(r1);
+		schach.add(r2);
+		schach.add(r3);
+		schach.add(r4);
+		schach.add(r5);
+		schach.printMuster();
+	}
+}

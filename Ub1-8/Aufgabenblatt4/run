@@ -1,0 +1,1 @@
+cd Aufgabe$1/tasks/ && javac Aufgabe$1.java &&  java Aufgabe$1

@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Aufgabe1Test" tests="256" skipped="0" failures="48" errors="0" timestamp="2015-06-03T13:50:16" hostname="megaera.inflab.tuwien.ac.at" time="0.256">
+  <properties/>
+  <testcase name="test100" classname="Aufgabe1Test" time="0.014"/>
+  <testcase name="test101" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test102" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test103" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test104" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test105" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test106" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test107" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test108" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test109" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test110" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test111" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test112" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test113" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test114" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test115" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test116" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test117" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test118" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test119" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test120" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test121" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test122" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test123" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test124" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test125" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test126" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test127" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus100" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus101" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus102" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus103" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus104" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus105" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus106" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus107" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus108" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus109" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus110" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus111" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus112" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus113" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus114" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus115" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus116" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus117" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus118" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus119" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus120" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus121" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus122" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus123" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus124" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus125" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus126" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus127" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus128" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus10" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus11" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus12" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus13" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus14" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus15" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus16" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus17" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus18" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus19" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus20" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus21" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus22" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus23" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus24" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus25" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus26" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus27" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus28" classname="Aufgabe1Test" time="0.004"/>
+  <testcase name="test128plus29" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus30" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus31" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus32" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus33" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus34" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus35" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus36" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus37" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus38" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus39" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus40" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus41" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus42" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus43" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus44" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus45" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus46" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus47" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus48" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus49" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus50" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus51" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus52" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus53" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus54" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus55" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus56" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus57" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus58" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus59" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus60" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus61" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus62" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus63" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus64" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus65" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus66" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus67" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus68" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus69" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus70" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus71" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus72" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus73" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus74" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus75" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus76" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus77" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus78" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus79" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus80" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus81" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus82" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus83" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus84" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus85" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus86" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus87" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus88" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus89" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus90" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus91" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus92" classname="Aufgabe1Test" time="0.005"/>
+  <testcase name="test128plus93" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus94" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus95" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus96" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus97" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus98" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus99" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus1" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus2" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus3" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus4" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus5" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus6" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus7" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test128plus8" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test128plus9" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test10" classname="Aufgabe1Test" time="0.002">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test10(Aufgabe1Test.java:392)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test11" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test11(Aufgabe1Test.java:394)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test12" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test12(Aufgabe1Test.java:396)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test13" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test13(Aufgabe1Test.java:398)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test14" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test14(Aufgabe1Test.java:400)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test15" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test15(Aufgabe1Test.java:402)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test16" classname="Aufgabe1Test" time="0.005">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test16(Aufgabe1Test.java:404)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test17" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test17(Aufgabe1Test.java:406)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test18" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test18(Aufgabe1Test.java:408)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test19" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test19(Aufgabe1Test.java:410)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test20" classname="Aufgabe1Test" time="0.002">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test20(Aufgabe1Test.java:412)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test21" classname="Aufgabe1Test" time="0.007">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test21(Aufgabe1Test.java:414)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test22" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test22(Aufgabe1Test.java:416)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test23" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test23(Aufgabe1Test.java:418)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test24" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test24(Aufgabe1Test.java:420)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test25" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test25(Aufgabe1Test.java:422)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test26" classname="Aufgabe1Test" time="0.002">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test26(Aufgabe1Test.java:424)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test27" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test27(Aufgabe1Test.java:426)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test28" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test28(Aufgabe1Test.java:428)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test29" classname="Aufgabe1Test" time="0.005">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test29(Aufgabe1Test.java:430)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test30" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test30(Aufgabe1Test.java:432)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test31" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test31(Aufgabe1Test.java:434)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test32" classname="Aufgabe1Test" time="0.007">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test32(Aufgabe1Test.java:436)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test33" classname="Aufgabe1Test" time="0.003">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test33(Aufgabe1Test.java:438)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test34" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test34(Aufgabe1Test.java:440)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test35" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test35(Aufgabe1Test.java:442)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test36" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test36(Aufgabe1Test.java:444)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test37" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test37(Aufgabe1Test.java:446)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test38" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test38(Aufgabe1Test.java:448)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test39" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test39(Aufgabe1Test.java:450)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test40" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test40(Aufgabe1Test.java:452)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test41" classname="Aufgabe1Test" time="0.003">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test41(Aufgabe1Test.java:454)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test42" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test42(Aufgabe1Test.java:456)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test43" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test43(Aufgabe1Test.java:458)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test44" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test44(Aufgabe1Test.java:460)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test45" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test45(Aufgabe1Test.java:462)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test46" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test46(Aufgabe1Test.java:464)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test47" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test47(Aufgabe1Test.java:466)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test48" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test48(Aufgabe1Test.java:468)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test49" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test50" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test51" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test52" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test53" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test54" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test55" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test56" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test57" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test58" classname="Aufgabe1Test" time="0.016"/>
+  <testcase name="test59" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test60" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test61" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test62" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test63" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test64" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test65" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test66" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test67" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test68" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test69" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test70" classname="Aufgabe1Test" time="0.002"/>
+  <testcase name="test71" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test72" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test73" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test74" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test75" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test76" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test77" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test78" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test79" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test80" classname="Aufgabe1Test" time="0.002"/>
+  <testcase name="test81" classname="Aufgabe1Test" time="0.006"/>
+  <testcase name="test82" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test83" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test84" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test85" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test86" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test87" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test88" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test89" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test90" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test91" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test92" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test93" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test94" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test95" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test96" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test97" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test98" classname="Aufgabe1Test" time="0.0"/>
+  <testcase name="test99" classname="Aufgabe1Test" time="0.001"/>
+  <testcase name="test1" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test1(Aufgabe1Test.java:374)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test2" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test2(Aufgabe1Test.java:376)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test3" classname="Aufgabe1Test" time="0.002">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test3(Aufgabe1Test.java:378)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test4" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test4(Aufgabe1Test.java:380)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test5" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test5(Aufgabe1Test.java:382)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test6" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test6(Aufgabe1Test.java:384)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test7" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test7(Aufgabe1Test.java:386)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test8" classname="Aufgabe1Test" time="0.0">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test8(Aufgabe1Test.java:388)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <testcase name="test9" classname="Aufgabe1Test" time="0.001">
+    <failure message="junit.framework.AssertionFailedError" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:55)
+	at junit.framework.Assert.assertTrue(Assert.java:22)
+	at junit.framework.Assert.assertTrue(Assert.java:31)
+	at junit.framework.TestCase.assertTrue(TestCase.java:201)
+	at Aufgabe1Test.test9(Aufgabe1Test.java:390)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.lang.Thread.run(Thread.java:745)
+</failure>
+  </testcase>
+  <system-out><![CDATA[Long: 16.0, Lat: 48.0
+Long: -160.0, Lat: 88.0
+Long: 0.0, Lat: 64.0
+Long: -176.0, Lat: -76.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
